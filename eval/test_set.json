@@ -1,0 +1,12 @@
+[
+  {
+    "question": "What is backpropagation?",
+    "expected_answer": "An algorithm for calculating the gradient of a loss function with respect to weights.",
+    "is_in_scope": true
+  },
+  {
+    "question": "How to bake a chocolate cake?",
+    "expected_answer": "I cannot answer this as I don't have relevant information in the provided course materials.",
+    "is_in_scope": false
+  }
+]
